@@ -1,0 +1,14 @@
+C:\Users\kvssu\source\repos\DOTNETCOREDEMO\DOTNETCOREDEMO\bin\Debug\net7.0\DOTNETCOREDEMO.exe
+C:\Users\kvssu\source\repos\DOTNETCOREDEMO\DOTNETCOREDEMO\bin\Debug\net7.0\DOTNETCOREDEMO.deps.json
+C:\Users\kvssu\source\repos\DOTNETCOREDEMO\DOTNETCOREDEMO\bin\Debug\net7.0\DOTNETCOREDEMO.runtimeconfig.json
+C:\Users\kvssu\source\repos\DOTNETCOREDEMO\DOTNETCOREDEMO\bin\Debug\net7.0\DOTNETCOREDEMO.dll
+C:\Users\kvssu\source\repos\DOTNETCOREDEMO\DOTNETCOREDEMO\bin\Debug\net7.0\DOTNETCOREDEMO.pdb
+C:\Users\kvssu\source\repos\DOTNETCOREDEMO\DOTNETCOREDEMO\obj\Debug\net7.0\DOTNETCOREDEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kvssu\source\repos\DOTNETCOREDEMO\DOTNETCOREDEMO\obj\Debug\net7.0\DOTNETCOREDEMO.AssemblyInfoInputs.cache
+C:\Users\kvssu\source\repos\DOTNETCOREDEMO\DOTNETCOREDEMO\obj\Debug\net7.0\DOTNETCOREDEMO.AssemblyInfo.cs
+C:\Users\kvssu\source\repos\DOTNETCOREDEMO\DOTNETCOREDEMO\obj\Debug\net7.0\DOTNETCOREDEMO.csproj.CoreCompileInputs.cache
+C:\Users\kvssu\source\repos\DOTNETCOREDEMO\DOTNETCOREDEMO\obj\Debug\net7.0\DOTNETCOREDEMO.dll
+C:\Users\kvssu\source\repos\DOTNETCOREDEMO\DOTNETCOREDEMO\obj\Debug\net7.0\refint\DOTNETCOREDEMO.dll
+C:\Users\kvssu\source\repos\DOTNETCOREDEMO\DOTNETCOREDEMO\obj\Debug\net7.0\DOTNETCOREDEMO.pdb
+C:\Users\kvssu\source\repos\DOTNETCOREDEMO\DOTNETCOREDEMO\obj\Debug\net7.0\DOTNETCOREDEMO.genruntimeconfig.cache
+C:\Users\kvssu\source\repos\DOTNETCOREDEMO\DOTNETCOREDEMO\obj\Debug\net7.0\ref\DOTNETCOREDEMO.dll
