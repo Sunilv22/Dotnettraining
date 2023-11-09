@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Net.NetworkInformation;
 
 namespace DOTNETCOREDEMO
 {
@@ -7,6 +8,10 @@ namespace DOTNETCOREDEMO
     {
         static void Main(string[] args)
         {
+            EMP s = new EMP();
+            Employee e = new Employee();
+            e.name = "Test";
+            Demo a = new Demo();
             //string[] cars = { "Volvo", "BMW", "Ford", "Mazda" };
             //for (int i = 0; i < cars.Length; i++)
             //{
